@@ -1,9 +1,13 @@
+html {
+  scrollbar-color: #680202 #000000;
+}
+
 body{
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
+    text-align: center;  
     overflow-x: hidden;
-
+    
 }
 
 .block1{
@@ -23,7 +27,7 @@ body{
     position: absolute;
     z-index: 1;
     transition: 2s;
-    left: 550px;
+    left: 400px;
     top: 2200px;
 }
 
@@ -87,7 +91,7 @@ h2:hover{
     z-index: 1;
     transition: 4s;
     opacity: 0;
-}   
+}
 
 .carry:hover{
     display: block;
@@ -196,7 +200,7 @@ p{
     color: #cfcfcf;
     width: 70%;
     margin-left: 200px;
-    font-size:20px;  
+    font-size:20px; 
 }
 
 .last-text{
