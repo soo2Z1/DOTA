@@ -3,7 +3,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     overflow-x: hidden;
-    scroll-behavior: smooth;
+
 }
 
 .block1{
@@ -87,7 +87,7 @@ h2:hover{
     z-index: 1;
     transition: 4s;
     opacity: 0;
-}
+}   
 
 .carry:hover{
     display: block;
@@ -196,7 +196,8 @@ p{
     color: #cfcfcf;
     width: 70%;
     margin-left: 200px;
-    font-size:20px; 
+    font-size:20px;  
+    scroll-behavior: smooth;
 }
 
 .last-text{
