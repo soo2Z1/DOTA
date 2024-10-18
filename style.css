@@ -3,6 +3,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 
 .block1{
@@ -22,7 +23,7 @@ body{
     position: absolute;
     z-index: 1;
     transition: 2s;
-    left: 400px;
+    left: 600px;
     top: 2200px;
 }
 
