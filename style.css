@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body{
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -197,7 +201,6 @@ p{
     width: 70%;
     margin-left: 200px;
     font-size:20px;  
-    scroll-behavior: smooth;
 }
 
 .last-text{
